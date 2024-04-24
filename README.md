@@ -1,0 +1,2 @@
+A simple JS Game : ROCK, SCISSOR, PAPER
+Using HTML, CSS and JAVASCRIPT
